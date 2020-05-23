@@ -1,0 +1,14 @@
+setup.py
+LotteryScrap/__init__.py
+LotteryScrap/items.py
+LotteryScrap/middlewares.py
+LotteryScrap/pipelines.py
+LotteryScrap/settings.py
+LotteryScrap/spiders/__init__.py
+LotteryScrap/spiders/lotery.py
+LotteryScrap/spiders/oregon_lottery.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
