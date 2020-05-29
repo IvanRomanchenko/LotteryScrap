@@ -1,11 +1,10 @@
-import scrapy
+from scrapy import Spider
+from scrapy.http import FormRequest
 from datetime import datetime, timezone, timedelta
 import pytz 
 
-from scrapy.http import FormRequest
 
-
-class OregonLotterySpider(scrapy.Spider):
+class OregonLotterySpider(Spider):
     name = "oregon_lottery"
     start_urls = ["https://www.oregonlottery.org/games/draw-games/keno/past-results/"]
 
