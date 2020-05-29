@@ -2,7 +2,7 @@ from datetime import datetime
 import scrapy
 
 
-class LoterySpider(scrapy.Spider):
+class LotterySpider(scrapy.Spider):
     name = 'lottery'
     start_urls = ["https://igra.msl.ua/megalote/ru/archive/"]
 
