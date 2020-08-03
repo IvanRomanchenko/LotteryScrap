@@ -1,2 +1,2 @@
 # LotteryScrap
-Scraper for lottery sites
+Scraper for lottery sites (on Scrapy)
